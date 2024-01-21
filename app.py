@@ -14,7 +14,7 @@ profile_pic = current_dir / "assets" / "302_TeamROG_Karl-Anthony Towns.jpg"
 # --- GENERAL SETTINGS ---
 PAGE_TITLE = "Digital CV | Ayub Abdulkareem"
 PAGE_ICON = ":wave:"
-NAME = "Ayub Abdulkareem"
+NAME = "Abdulkareem"
 DESCRIPTION = """
 Python Developer.
 """
